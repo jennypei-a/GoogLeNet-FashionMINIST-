@@ -1,4 +1,4 @@
-# google云端硬盘与colab连接，在colab端训练GoogLeNet。（基础入门版模型搭建、模型训练和模型验证。实现pytorch架构下自带的单通道发灰度图“FashionMINIST”中的衣物分类。训练10次，准确率达到93.7。  ）
+# google云端硬盘与colab连接，在colab端训练GoogLeNet。（基础入门版模型搭建、模型训练和模型验证。实现pytorch架构下自带的单通道灰度图“FashionMINIST”中的衣物分类。训练10次，准确率达到93.7。  ）
 ## 首先将代码上传至google云端硬盘；  
 ### 使用colab与云端硬盘建立连接，实现代码如下：   
 
